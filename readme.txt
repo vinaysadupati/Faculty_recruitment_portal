@@ -1,5 +1,5 @@
-Project submitted by:K.B.Bhavan(2201AI19) 
-                     k.Vishwa Chaitanya(2201CS38)
+Project submitted by:Vinay Sadupati(2201AI44) 
+                     Sripati Surya Teja(2201CS71)
                       
 
 //----------------------Brief idea of installation
